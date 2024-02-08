@@ -1,6 +1,6 @@
-# Curso de Clean Code y Principios SOLID
+# Clean Code y Principios SOLID
 
-Esta es una guia basada en el curso de *Clean Code y Principios SOLID* de Fernando Herrera, en el que se enseñan conceptos y principios muy importantes para mantener el código lo más limpio posible y mantenible en el tiempo.
+Esta es una guía basada en el curso de *Clean Code y Principios SOLID* de Fernando Herrera, en el que se enseñan conceptos y principios muy importantes para mantener el código lo más limpio posible y mantenible en el tiempo.
 
 Este curso cubre una amplia gama de temas relacionados con la escritura de código limpio y la aplicación de principios sólidos de diseño de software. Desde técnicas para mejorar la legibilidad del código hasta pautas para estructurar proyectos de manera eficiente, este curso ofrece una sólida base para desarrolladores de todos los niveles.
 
@@ -10,7 +10,7 @@ El repositorio incluye:
 * Ejemplos de código generados usPando ChatGPT.
 * Recursos adicionales recomendados por el instructor.
 
-Para sacar el máximo provecho de este repositorio, se recomienda tener conocimientos básicos de programación y estar familiarizado con un lenguaje de programación, en esta guia se estara utilizando TypeScript, pero esto todo esto aplica para cualquier lenguaje de programacion.
+Para sacar el máximo provecho de este repositorio, se recomienda tener conocimientos básicos de programación y estar familiarizado con un lenguaje de programación, en esta guía se estara utilizando TypeScript, pero esto todo esto aplica para cualquier lenguaje de programacion.
 
 **Autor:** *Randy Martínez* - Desarrollador Semi Senior.
 
